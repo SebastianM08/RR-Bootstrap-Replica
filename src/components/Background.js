@@ -8,13 +8,12 @@ function Background() {
             flexDirection: "row"
         }}>
             <div id="banner">
-                <Card style={{
+                <Card border="light" style={{
                     width: "100%",
                     minHeight: "428px",
                     marginBottom: "50px",
                     backgroundColor: "#DDEDD4",
                     borderRadius: "0",
-                    borderBlockColor: "#DDEDD4",
                 }}
                     className="text-black"
                 >
