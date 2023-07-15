@@ -7,6 +7,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#banner {
+  width: 60% ;
+}
+
+image {
+    min-Height: "428px";
+    width: "100%";
+    position: "absolute";
+    background-Size: "contain";
+    background-Repeat: 'no-repeat';
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
