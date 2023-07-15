@@ -40,7 +40,7 @@ function Background() {
                 <img
                     style={{
                         minHeight: "428px",
-                        width: "100%",
+                        width: "60%",
                         position: "absolute",
                         backgroundSize: "contain",
                         backgroundRepeat: 'no-repeat',
